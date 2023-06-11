@@ -16,11 +16,16 @@ struct RPSMatch {
     // MARK: Properties
     let p1: RPS
     let p2: RPS
+    let date: Date
     
     // MARK: Initializer
+    /*
+     * if initialized without a date, use the current date
+     */
     init(p1: RPS, p2: RPS) {
         self.p1 = p1
         self.p2 = p2
+        self.date = Date()
     }
     
     // MARK: Computed Properties

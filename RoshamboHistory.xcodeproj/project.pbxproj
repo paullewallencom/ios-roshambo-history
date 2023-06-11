@@ -16,6 +16,7 @@
 		747A21292A360AA8002ECC47 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A21282A360AA8002ECC47 /* ResultViewController.swift */; };
 		747A212B2A360BCC002ECC47 /* RPS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A212A2A360BCC002ECC47 /* RPS.swift */; };
 		747A212D2A360C3D002ECC47 /* SingleMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A212C2A360C3D002ECC47 /* SingleMatch.swift */; };
+		747A212F2A3642BD002ECC47 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A212E2A3642BD002ECC47 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		747A21282A360AA8002ECC47 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		747A212A2A360BCC002ECC47 /* RPS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPS.swift; sourceTree = "<group>"; };
 		747A212C2A360C3D002ECC47 /* SingleMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleMatch.swift; sourceTree = "<group>"; };
+		747A212E2A3642BD002ECC47 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			children = (
 				747A21142A360791002ECC47 /* AppDelegate.swift */,
 				747A21162A360791002ECC47 /* SceneDelegate.swift */,
+				747A212E2A3642BD002ECC47 /* File.swift */,
 				747A212A2A360BCC002ECC47 /* RPS.swift */,
 				747A212C2A360C3D002ECC47 /* SingleMatch.swift */,
 				747A21182A360791002ECC47 /* RockPaperScissorsViewController.swift */,
@@ -149,6 +152,7 @@
 			files = (
 				747A21192A360791002ECC47 /* RockPaperScissorsViewController.swift in Sources */,
 				747A21152A360791002ECC47 /* AppDelegate.swift in Sources */,
+				747A212F2A3642BD002ECC47 /* File.swift in Sources */,
 				747A21172A360791002ECC47 /* SceneDelegate.swift in Sources */,
 				747A21292A360AA8002ECC47 /* ResultViewController.swift in Sources */,
 				747A212B2A360BCC002ECC47 /* RPS.swift in Sources */,
